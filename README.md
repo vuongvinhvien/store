@@ -1,4 +1,4 @@
-# store-app
+# store-app use VUE.JS CLI-4
 
 ## Project setup
 ```
